@@ -1,0 +1,92 @@
+[
+    [
+        "D:\\LWC-Training\\myeslwc\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\LWC-Training\\myeslwc\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559274779891,
+            "changeTime": 1559274779891,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\LWC-Training\\myeslwc\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\LWC-Training\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559274779894,
+            "changeTime": 1559274779894,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LWC-Training\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\LWC-Training\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559274779894,
+            "changeTime": 1559274779894,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LWC-Training\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\LWC-Training\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559274779894,
+            "changeTime": 1559274779894,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LWC-Training\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\LWC-Training\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559274779894,
+            "changeTime": 1559274779894,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\LWC-Training\\myeslwc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\LWC-Training\\myeslwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559274805668,
+            "changeTime": 1559274805668,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
